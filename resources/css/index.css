@@ -16,7 +16,7 @@ body, html {
     left: 50px;
     right: 50px;
     bottom: 50pxx;
-    background: url('resources/images/pattern.jpeg') no-repeat center center;
+    background: url('../images/pattern.jpeg') no-repeat center center;
     background-size: cover;
 }
 
